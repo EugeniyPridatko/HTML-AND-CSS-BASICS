@@ -67,7 +67,7 @@ What is the “default stylesheet” or “user agent stylesheet”?
 Why use a CSS reset file?
 Для того, чтобы убрать таблицу стилей по умолчанию и задать свои стили.В разных браузерах HTML документ с таблицей стилей по умолчанию отображается по разному.
 
-Anwers in english
+Answers in english
 
 Why do we separate HTML and CSS?
 Efficiency and maintenance 'cost'. By keeping a separate CSS file it's possible to apply a single property/value to millions of classes/ID's/elements across thousands of separate HTML pages.
